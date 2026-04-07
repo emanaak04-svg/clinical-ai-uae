@@ -53,9 +53,13 @@ Patient ID : UAE-003
 Name       : Khalid Al Rashidi
 Age        : 61  |  Gender: Male
 Symptoms   : excessive thirst, fatigue, blurry vision, severe headache, chest pain
+
 ⚑ Diabetes        Risk: HIGH
+
 Indicators : excessive thirst, fatigue, blurry vision
+
 ⚑ Hypertension    Risk: HIGH
+
 Indicators : fatigue, blurry vision, severe headache, chest pain
 ---
 
