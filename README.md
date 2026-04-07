@@ -38,11 +38,10 @@ This tool is designed with these realities in mind — built for the UAE, not ad
 ---
 
 ## Project Structure
-clinical-ai-uae/
 
-├── risk_engine.py      # Core risk assessment and report generation
-
-└── README.md           # Project documentation
+- **clinical-ai-uae/**
+  - `risk_engine.py` — Core risk assessment and report generation
+  - `README.md` — Project documentation
 ---
 
 ## Sample Output
